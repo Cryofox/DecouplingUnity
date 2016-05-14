@@ -1,0 +1,5 @@
+D:\Git_Repos\DecouplingUnity\Decoupling_UnityLib\Decoupling_UnityLib\obj\Debug\Decoupling_UnityLib.csprojResolveAssemblyReference.cache
+D:\Git_Repos\DecouplingUnity\UnityTemplate\Assets\DLL\Decoupling_UnityLib.dll
+D:\Git_Repos\DecouplingUnity\UnityTemplate\Assets\DLL\Decoupling_UnityLib.pdb
+D:\Git_Repos\DecouplingUnity\Decoupling_UnityLib\Decoupling_UnityLib\obj\Debug\Decoupling_UnityLib.dll
+D:\Git_Repos\DecouplingUnity\Decoupling_UnityLib\Decoupling_UnityLib\obj\Debug\Decoupling_UnityLib.pdb
